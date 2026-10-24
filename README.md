@@ -1,4 +1,4 @@
-Name : Shaik Hapsa Registration Number : 26000130 Branch : CSE Section : 2
+Name : Shaik Hapsa Registration Number : 26000130 Branch : CSE Section : 2 
 
 Web Development Projects Project Overview This repository contains three beginner-friendly websites created using HTML and internal CSS. Projects
 
